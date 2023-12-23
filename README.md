@@ -31,7 +31,7 @@ FILE + RANDOM + GMAIL CRACKING TOOL...💙
 
 - `rm -rf ANISH`
 
-- `git clone https://github.com/ANISH-GOD/ANISH.git`
+- `git clone https://github.com/anish-XD-0/ANISH.git`
 
 -  `cd ANISH`
 
