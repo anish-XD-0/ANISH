@@ -37,4 +37,4 @@ FILE + RANDOM + GMAIL CRACKING TOOL...💙
 
 - `git pull`
 
--  `python anish.py`
+-  `python Vip.py`
