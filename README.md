@@ -37,4 +37,4 @@ FILE + RANDOM + GMAIL CRACKING TOOL💙
 
 - `git pull`
 
--  `python Anish.so`
+-  `python Anish.py`
